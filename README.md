@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently diving into **Blockchain Technology**
 
-- 👨‍💻 All of my projects are available at [........](........)
+- 👨‍💻 All of my projects are available at **https://full-stack-portfolio.pages.dev/**
+
+- 📄 Know about my experiences **https://drive.google.com/file/d/1IrAheilPv_z0lDD3z1gkuUdmh_UHeDg_/view**
 
 - 📫 How to reach me **john.smith.dev0724@gmail.com**
 

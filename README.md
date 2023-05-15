@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ron</h1>
-<h3 align="center">A passionate full-stack developer from Canada</h3>
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">A passionate full-stack developer from Hong Kong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartman1234&label=Profile%20views&color=0e75b6&style=flat" alt="smartman1234" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **https://full-stack-portfolio.pages.dev/**
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1IrAheilPv_z0lDD3z1gkuUdmh_UHeDg_/view**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1CASgdhgRQvAAL0Oez03hn14CzRoAbrd9/view?usp=share_link**
 
 - 📫 How to reach me **john.smith.dev0724@gmail.com**
 

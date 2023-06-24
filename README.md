@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate full-stack developer from Hong Kong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartman1234&label=Profile%20views&color=0e75b6&style=flat" alt="smartman1234" /> </p>
@@ -6,10 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smartman1234" alt="smartman1234" /></a> </p>
 
 - 🌱 I’m currently diving into **Blockchain Technology**
-
-- 👨‍💻 All of my projects are available at **https://full-stack-portfolio.pages.dev/**
-
-- 📄 Know about my experiences **https://drive.google.com/file/d/1CASgdhgRQvAAL0Oez03hn14CzRoAbrd9/view?usp=share_link**
 
 - 📫 How to reach me **john.smith.dev0724@gmail.com**
 

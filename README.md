@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smartman1234" alt="smartman1234" /></a> </p>
 
-- 🌱 I’m currently diving into **Blockchain Technology**
-
-- 📫 How to reach me **john.smith.dev0724@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
